@@ -1,0 +1,75 @@
+﻿capital = 102
+
+set_research_slots = 3
+
+# Starting tech
+# clone of Yugoslavia
+set_technology = {
+	tech_support = 1
+	tech_engineers = 1
+	tech_mountaineers = 1
+	early_fighter = 1
+	gwtank = 1
+	basic_light_tank = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	early_destroyer = 1
+	early_light_cruiser = 1
+	early_submarine = 1
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1980.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 33
+	neutrality = 33
+	communism = 34
+}
+create_country_leader = {
+	name = "Big Brother"
+	desc = "POLITICS_WINSTON_CHURCHILL_DESC"
+	picture = "gfx/leaders/ENG/Portrait_Big_Brother.dds"
+	expire = "1999.12.1"
+	ideology = socialism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Mother Russia"
+	desc = "POLITICS_JOSEPH_STALIN_DESC"
+	picture = "gfx/leaders/SOV/Portrait_Mother_Russia.dds"
+	expire = "1999.12.1"
+	ideology = stalinism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Immortal Father"
+	desc = "POLITICS_MAO_ZEDONG_DESC"
+	picture = "gfx/leaders/PRC/Portrait_Immortal_Mao.dds"
+	expire = "1999.12.1"
+	ideology = rexism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Emmanuel Goldstein"
+	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
+	picture = "gfx/leaders/ENG/Portrait_Emmanuel_Goldstein.dds"
+	expire = "1999.1.1"
+	ideology = moderatism
+	traits = {
+		warmonger
+	}
+}

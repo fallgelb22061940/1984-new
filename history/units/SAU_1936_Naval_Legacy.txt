@@ -1,0 +1,66 @@
+units = {
+	fleet = {					
+		name = "Arabian Navy"
+		naval_base = 4206
+		
+		task_force = {
+			name = "Task Force Arabia"
+			location = 4206
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = SAU } } }
+			ship = { definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = SAU } } }
+		}
+	}
+	fleet = {
+		name = "Arab Submarine Command"
+		naval_base = 4206
+		task_force = {
+			name = "1. Wolf Pack"
+			location = 4206
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAU } } }
+		}
+	}
+}

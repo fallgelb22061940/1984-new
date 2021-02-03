@@ -1,0 +1,63 @@
+units = {
+	fleet = {
+		name = "Indochinese Navy"
+		naval_base = 12299
+		
+		task_force = {
+			name = "Task Force Indochina"
+			location = 12299
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = SIA } } }
+			ship = { definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = SIA } } }
+		}
+		
+		task_force = {
+			name = "1. Wolf Pack"
+			location = 7408
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }					
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SIA } } }
+		}
+	}
+}

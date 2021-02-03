@@ -1,0 +1,255 @@
+units = {
+
+	#DENMARK#
+	fleet = {
+		name = "Baltic Navy"
+		naval_base = 6287
+		
+		task_force = {
+			name = "Task Force Kraken"
+			location = 6287 
+			ship = { definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }
+		}
+	}
+	fleet = {
+		name = "Baltic Submarine Command"
+		naval_base = 394
+		
+		task_force = {
+			name = "Baltic Wolf Pack"
+			location = 394
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+		}
+	}
+	
+	#SPAIN/ITALY#
+	fleet = {
+		name = "Mediterranean Navy"
+		naval_base = 4135
+		
+		task_force = {
+			name = "Task Force Centurion"
+			location = 4135 
+			ship = { definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }	
+		}
+	}					
+	fleet = {
+		name = "Mediterranean Submarine Command"
+		naval_base = 12003
+		task_force = {
+			name = "Gibralter Wolf Pack"
+			location = 12003
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+		}
+	}
+	#TURKEY#
+	fleet = {
+		name = "Black Sea Navy"
+		naval_base = 9833
+		task_force = {
+			name = "Task Force Poseidon"
+			location = 9833
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }
+		}
+	}
+	fleet = {
+		name = "Black Sea Submarine Command"		
+		naval_base = 4193
+		task_force = {
+			name = "Black Sea Wolf Pack"
+			location = 4193
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+		}
+	}
+	
+	#GERMANY#
+	fleet = {
+		name = "Continental Navy"
+		naval_base = 3314
+		
+		task_force = {
+			name = "Task Force Karl Marx"
+			location = 3314 
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }
+		}
+	}
+	fleet = {
+		name = "Continental Submarine Command"
+		naval_base = 6325
+		
+		task_force = {
+			name = "German Wolf Pack"
+			location = 6325
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+		}
+	}
+	
+	#RUSSIA#
+	fleet = {				
+		name = "Russian Navy"
+		naval_base = 3151
+		
+		task_force = {
+			name =  "Task Force Lenin"
+			location = 3151 
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }
+		}		
+	}
+	
+	#EXTRA#
+	fleet = {
+		name = "Defense Fleet"
+		naval_base = 11805
+		
+		task_force = {
+			name = "Strike Group Ragnarok"
+			location = 11805
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }	
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SOV } } }	
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }	
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }	
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }
+		}
+	}
+}

@@ -1,0 +1,108 @@
+units = {
+	fleet = {
+		name = "Frontier Navy"
+		naval_base = 12589
+		
+		task_force = {
+			name = "Task Force Revenant"
+			location = 12589 
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SAF } } }		
+		}
+	}					
+	fleet = {
+		name = "Frontier Submarine Command"
+		naval_base = 1468
+		
+		task_force = {
+			name = "1. Wolf Pack"	
+			location = 1468
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+		}
+		
+		task_force = {
+			name = "2. Wolf Pack"
+			location = 13018
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+		}
+		
+		task_force = {
+			name = "3. Wolf Pack"
+			location = 1237
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+		}
+		
+		task_force = {
+			name = "4. Wolf Pack"
+			location = 4543
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+		}
+		
+		task_force = {
+			name = "5. Wolf Pack"
+			location = 1652
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SAF } } }
+		}
+	}
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=172
+	name="STATE_172"
+	manpower = 594880
+
+	state_category = rural
+
+	history={
+		owner = SPR
+		victory_points = {
+			740 3
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = SPR
+
+		1980.6.2 = {
+			owner = SOV
+			controller = SOV
+			add_core_of = SOV
+		}
+	}
+
+	provinces={
+3737 3933 3931 9857 932
+	}
+}

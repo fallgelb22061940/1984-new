@@ -1,0 +1,73 @@
+units = {
+	fleet = {
+		name = "Pacific Navy"
+		naval_base = 1562
+		
+		task_force = {
+			name = "Task Force Armageddon"
+			location = 1562 
+			ship = { definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = battle_cruiser equipment = { battle_cruiser_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }		
+		}
+	}
+	
+	fleet = {
+		name = "Pacific Submarine Command"
+		naval_base = 4180
+		
+		task_force = {
+			name = "1. Wolf Pack"
+			location = 4180	
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+		}
+		
+		task_force = {
+			name = "2. Wolf Pack"
+			location = 13052
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = MEX } } }
+		}
+	}
+}

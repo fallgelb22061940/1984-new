@@ -1,0 +1,79 @@
+units = {
+	fleet = {					
+		name = "Russian Navy"
+		naval_base = 3151
+		
+		task_force = {
+			name =  "Task Force Lenin"
+			location = 3151 
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SOV } } }
+		}		
+	}					
+	fleet = {
+		name = "Russian Submarine Command"
+		naval_base = 3151
+		
+		task_force = {
+			name = "1. Wolf Pack"
+			location = 3151				
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+		}
+		
+		task_force = {
+			name = "2. Wolf Pack"
+			location = 3338				
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+		}
+		task_force = {
+			name = "3. Wolf Pack"
+			location = 3134				
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+		}
+		
+		task_force = {
+			name = "4. Wolf Pack"
+			location = 3151
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = SOV } } }
+		}
+	}
+}

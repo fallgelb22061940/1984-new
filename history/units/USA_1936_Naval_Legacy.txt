@@ -1,0 +1,110 @@
+units = {
+	
+	fleet = {			
+		name = "Atlantic Navy"				
+		naval_base = 7552
+		
+		task_force = {
+			name = "Task Force Blackwater"
+			location = 7552 
+		
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = USA } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = USA } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = USA } } }
+			ship = { definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = USA } } }
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }		
+			ship = { definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = USA } } }
+		}
+	}
+	fleet = {
+		name = "Atlantic Submarine Command"
+		naval_base = 1440
+		task_force = {
+			name = "1. Wolf Pack"
+			location = 1440	
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+		}
+		
+		task_force = {
+			name = "2. Wolf Pack"
+		
+			location = 13010
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+		}
+		
+		task_force = {
+			name = "3. Wolf Pack"
+			location = 12505				
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+		}
+		
+		task_force = {
+			name = "4. Wolf Pack"
+			location = 6732				
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+		}
+		
+		task_force = {
+			name = "5. Wolf Pack"
+			location = 7202				
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+			ship = { definition = submarine equipment = { submarine_1 = { amount = 1 owner = USA } } }
+		}
+	}
+}
