@@ -30,19 +30,19 @@ set_technology = {
 	set_politics = {
 
 	
-	ruling_party = democratic
+	ruling_party = neutrality
 	last_election = "1978.11.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-		democratic = 100
+		democratic = 0
 
 		fascism = 0
 		
 		communism = 0
 		
-		neutrality = 0
+		neutrality = 100
 	}
 
 create_country_leader = {
@@ -50,7 +50,7 @@ create_country_leader = {
 	desc = "POLITICS_WINSTON_CHURCHILL_DESC"
 	picture = "gfx/leaders/ENG/Portrait_Big_Brother.dds"
 	expire = "1999.12.1"
-	ideology = despotism
+	ideology = socialism
 	traits = {
 		
 	}
@@ -83,7 +83,7 @@ create_country_leader = {
 	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
 	picture = "gfx/leaders/ENG/Portrait_Emmanuel_Goldstein.dds"
 	expire = "1999.1.1"
-	ideology = socialism
+	ideology = moderatism
 	traits = {
 		warmonger
 	}
