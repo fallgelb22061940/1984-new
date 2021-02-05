@@ -36,13 +36,13 @@ set_technology = {
 	elections_allowed = no
 }
 set_popularities = {
-		democratic = 0
+		democratic = 100
 
 		fascism = 0
 		
 		communism = 0
 		
-		neutrality = 100
+		neutrality = 0
 	}
 
 create_country_leader = {
@@ -50,7 +50,7 @@ create_country_leader = {
 	desc = "POLITICS_WINSTON_CHURCHILL_DESC"
 	picture = "gfx/leaders/ENG/Portrait_Big_Brother.dds"
 	expire = "1999.12.1"
-	ideology = socialism
+	ideology = despotism
 	traits = {
 		
 	}
@@ -83,7 +83,7 @@ create_country_leader = {
 	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
 	picture = "gfx/leaders/ENG/Portrait_Emmanuel_Goldstein.dds"
 	expire = "1999.1.1"
-	ideology = moderatism
+	ideology = socialism
 	traits = {
 		warmonger
 	}
