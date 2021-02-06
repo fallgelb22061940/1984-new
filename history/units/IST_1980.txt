@@ -98,7 +98,7 @@ units = {
         start_experience_factor = 0.1
     }
     division = {
-        name = "Ingsoc special armored brigade
+        name = "Ingsoc special armored brigade"
         location = 4478
         division_template = "Armored division"
         start_experience_factor = 0.1
