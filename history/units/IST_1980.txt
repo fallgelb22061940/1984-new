@@ -1,0 +1,107 @@
+division_template = {
+    name = "Infantry division"
+
+    regiments = {
+        infantry = {x = 0 y = 0}
+        infantry = {x = 1 y = 0}
+        infantry = {x = 0 y = 1}
+        infantry = {x = 1 y = 1}
+        infantry = {x = 1 y = 2}
+        infantry = {x = 0 y = 2}
+    }
+    support = {
+        recon = { x = 0 y = 0 }
+    }
+}
+division_template = {
+    name = "Infantry brigade"
+
+    regiments = {
+        infantry = {x = 0 y = 0}
+        infantry = {x = 1 y = 0}
+        infantry = {x = 0 y = 1}
+        infantry = {x = 1 y = 1}
+    }
+    priority = 0
+}
+division_template = {
+	name = "Cavalry division"
+
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+	}
+}
+division_template = {
+    name = "Armored division"
+    regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+        light_armor = { x = 0 y = 2 }
+		light_armor = { x = 0 y = 3 }
+        motorized = { x = 1 y = 0 }
+        motorized = { x = 1 y = 1 }
+        motorized = { x = 1 y = 2 }
+        motorized = { x = 1 y = 3 }
+    }
+}
+units = {
+    division = {
+        name = "1.Infantry division"
+        location = 8249
+        division_template = "Infantry division"
+        start_experience_factor = 0.1
+        start_equipment_factor = 0.7
+    }
+    division = {
+        name = "2.Infantry division"
+        location = 8234
+        division_template = "Infantry division"
+        start_equipment_factor = 0.8
+        start_experience_factor = 0.15
+    }
+    division = {
+        name = "1.Infantry brigade"
+        location = 8130 #west
+        division_template = "Infantry brigade"
+        start_experience_factor = 0.2
+        start_equipment_factor = 0.6
+    }
+    division = {
+        name = "2.Infantry brigade"
+        location = 2130
+        division_template = "Infantry brigade"
+        start_equipment_factor = 0.15
+        start_equipment_factor = 0.9
+    }
+    division = {
+        name = "Ingsoc reeducation batallion"
+        location = 2157
+        division_template = "Infantry brigade"
+        start_equipment_factor = 0.82
+        start_experience_factor = 0.15
+    }
+    division = {
+        name = "3.Infantry division"
+        location = 10983 #west
+        division_template = "Infantry division"
+        start_experience_factor = 0.15
+        start_equipment_factor = 0.8
+    }
+    division = {
+        name = "Mechanized specialized unit"
+        location = 7755 #east
+        division_template = "Armored division"
+        start_equipment_factor = 0.7
+        start_experience_factor = 0.1
+    }
+    division = {
+        name = "Ingsoc special armored brigade
+        location = 4478
+        division_template = "Armored division"
+        start_experience_factor = 0.1
+        start_equipment_factor = 0.75
+    }
+}
