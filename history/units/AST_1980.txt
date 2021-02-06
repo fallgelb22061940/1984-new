@@ -1,0 +1,117 @@
+division_template = {
+    name = "Infantry division"
+
+    regiments = {
+        infantry = {x = 0 y = 0}
+        infantry = {x = 1 y = 0}
+        infantry = {x = 0 y = 1}
+        infantry = {x = 1 y = 1}
+        infantry = {x = 1 y = 2}
+        infantry = {x = 0 y = 2}
+        infantry = {x = 2 y = 0}
+    }
+    support = {
+        recon = { x = 0 y = 0 }
+        anti_tank = { x = 0 y = 0 }
+    }
+}
+division_template = {
+    name = "Partisan brigade"
+
+    regiments = {
+        infantry = {x = 0 y = 0}
+        infantry = {x = 1 y = 0}
+        infantry = {x = 0 y = 1}
+    }
+    priority = 0
+}
+division_template = {
+    name = "Infantry brigade"
+
+    regiments = {
+        infantry = {x = 0 y = 0}
+        infantry = {x = 1 y = 0}
+        infantry = {x = 0 y = 1}
+        infantry = {x = 1 y = 1}
+    }
+    priority = 0
+}
+units = {
+    division = {
+        name = "1.Infantry division"
+        location = 7666
+        division_template = "Infantry division"
+        start_experience_factor = 0.35
+        start_equipment_factor = 0.7
+    }
+    division = {
+        name = "2.Infantry division"
+        location = 2116
+        division_template = "Infantry division"
+        start_equipment_factor = 0.8
+        start_experience_factor = 0.3
+    }
+    division = {
+        name = "1.Infantry brigade"
+        location = 7608
+        division_template = "Infantry brigade"
+        start_experience_factor = 0.2
+        start_equipment_factor = 0.6
+    }
+    division = {
+        name = "2.Infantry brigade"
+        location = 11011
+        division_template = "Infantry brigade"
+        start_equipment_factor = 0.2
+        start_equipment_factor = 0.9
+    }
+    division = {
+        name = "3.Infantry brigade"
+        location = 2205
+        division_template = "Infantry brigade"
+        start_equipment_factor = 0.82
+        start_experience_factor = 0.6
+    }
+    division = {
+        name = "3.Infantry division"
+        location = 10473 
+        division_template = "Infantry division"
+        start_experience_factor = 0.4
+        start_equipment_factor = 0.8
+    }
+    division = {
+        name = "Capital resistance unit"
+        location = 7859 
+        division_template = "Partisan brigade"
+        start_equipment_factor = 0.7
+        start_experience_factor = 0.7
+    }
+    division = {
+        name = "Tasmanian partisan brigade"
+        location = 2183
+        division_template = "Partisan brigade"
+        start_experience_factor = 0.5
+        start_equipment_factor = 0.75
+    }
+    division = {
+        name = "4.Infantry brigade" 
+        location = 5227
+        division_template = "Infantry brigade"
+        start_equipment_factor = 0.6
+        start_experience_factor = 0.4
+    }
+    division = {
+        name = "4.Infantry division"
+        location = 7564
+        division_template = "Infantry division"
+        start_equipment_factor = 0.7
+        start_experience_factor = 0.5
+    }
+    division = {
+        name = "5.Infantry brigade"
+        location = 7669
+        division_template = "Infantry brigade"
+        start_experience_factor = 0.3
+        start_equipment_factor = 1
+    }
+}
