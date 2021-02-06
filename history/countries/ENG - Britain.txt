@@ -47,6 +47,7 @@ diplomatic_relation = { country = MAN relation = non_aggression_pact }
 diplomatic_relation = { country = PER relation = non_aggression_pact }
 diplomatic_relation = { country = NEP relation = non_aggression_pact }
 diplomatic_relation = { country = JAP relation = non_aggression_pact }
+give_guarantee = IST
 
 create_faction = Oceania
 add_to_faction = ENG

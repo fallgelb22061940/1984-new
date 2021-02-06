@@ -1,4 +1,4 @@
-capital = 521
+capital = 517
 oob = "1980_GENERIC"
 
 set_research_slots = 3
@@ -24,31 +24,36 @@ set_technology = {
 	support_weapons = 1
 	motorised_infantry = 1
 }
+	declare_war_on = {
+		target = AST
+		type = annex_everything
+	}
+
 
 
 
 	set_politics = {
 
 	
-	ruling_party = neutrality
+	ruling_party = democratic
 	last_election = "1978.11.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-		democratic = 0
+		democratic = 70
 
 		fascism = 0
 		
 		communism = 0
 		
-		neutrality = 100
+		neutrality = 30
 	}
 
 create_country_leader = {
-	name = "Big Brother"
+	name = "Iron Pal"
 	desc = "POLITICS_WINSTON_CHURCHILL_DESC"
-	picture = "gfx/leaders/ENG/Portrait_Big_Brother.dds"
+	picture = "gfx/leaders/AST/Portrait_Ernst_Tennant.dds"
 	expire = "1999.12.1"
 	ideology = socialism
 	traits = {
@@ -79,9 +84,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Scoprion of Australia"
+	name = "Emmanuel Goldstein"
 	desc = "POLITICS_NEVILLE_CHAMBERLAIN_DESC"
-	picture = "gfx/leaders/AST/Portrait_Peter_Cosgrove.dds"
+	picture = "gfx/leaders/ENG/Portrait_Emmanuel_Goldstein.dds"
 	expire = "1999.1.1"
 	ideology = moderatism
 	traits = {

@@ -8,7 +8,7 @@ state=
 
 	history=
 	{
-		owner = SAF
+		owner = IST
 		victory_points = {
 			2189 1 
 		}
@@ -18,12 +18,11 @@ state=
 				naval_base = 2
 			}
 		}
-		add_core_of = AST
-		add_core_of = SAF
+		add_core_of = IST
 		1980.6.2 = {
-			owner = ENG
-			controller = ENG
-			add_core_of = ENG
+			owner = IST
+			controller = IST
+			add_core_of = IST
 		}
 	}
 	provinces={

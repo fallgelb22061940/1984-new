@@ -10,9 +10,9 @@ state={
 		owner = JAP
 		add_core_of = JAP
 		1980.6.2 = {
-			owner = PRC
-			controller = PRC
-			add_core_of = PRC
+			owner = JAP
+			controller = JAP
+			add_core_of = JAP
 		}
 		buildings = {
 			infrastructure = 3

@@ -7,17 +7,16 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = SAF
+		owner = AST
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = SAF
 		add_core_of = AST
 		1980.6.2 = {
-			owner = ENG
-			controller = ENG
-			add_core_of = ENG
+			owner = AST
+			controller = AST
+			add_core_of = AST
 		}
 	}
 
