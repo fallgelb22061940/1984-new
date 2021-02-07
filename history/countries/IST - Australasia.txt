@@ -1,5 +1,5 @@
 capital = 517
-oob = "1980_GENERIC"
+oob = "IST_1980"
 
 set_research_slots = 3
 
